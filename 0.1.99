@@ -1,0 +1,6 @@
+Collecting sentencepiece
+  Downloading sentencepiece-0.2.0-cp311-cp311-win_amd64.whl.metadata (8.3 kB)
+Downloading sentencepiece-0.2.0-cp311-cp311-win_amd64.whl (991 kB)
+   --------------------------------------- 991.5/991.5 kB 11.8 MB/s eta 0:00:00
+Installing collected packages: sentencepiece
+Successfully installed sentencepiece-0.2.0

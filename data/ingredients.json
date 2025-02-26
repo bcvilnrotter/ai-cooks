@@ -1,0 +1,85 @@
+{
+  "base_ingredients": [
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "description": "A juicy, red fruit commonly used in many dishes.",
+      "image_prompt": "A fresh, ripe tomato on a white background, photorealistic",
+      "image_url": null,
+      "properties": ["vegetable", "acidic", "juicy", "red"]
+    },
+    {
+      "id": "flour",
+      "name": "Flour",
+      "description": "A fine powder made from grinding wheat, used as a base for many baked goods.",
+      "image_prompt": "A small pile of white flour on a dark surface, photorealistic",
+      "image_url": null,
+      "properties": ["grain", "dry", "powder", "white"]
+    },
+    {
+      "id": "egg",
+      "name": "Egg",
+      "description": "A versatile ingredient used in baking and cooking.",
+      "image_prompt": "A single chicken egg with white shell on a plain background, photorealistic",
+      "image_url": null,
+      "properties": ["protein", "binding", "yellow", "white"]
+    },
+    {
+      "id": "milk",
+      "name": "Milk",
+      "description": "A nutritious liquid used in many recipes and beverages.",
+      "image_prompt": "A glass of fresh milk on a wooden table, photorealistic",
+      "image_url": null,
+      "properties": ["dairy", "liquid", "white", "creamy"]
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "description": "A sweet crystalline substance used to sweeten food and drinks.",
+      "image_prompt": "White granulated sugar in a small bowl, photorealistic",
+      "image_url": null,
+      "properties": ["sweet", "crystalline", "white", "dry"]
+    },
+    {
+      "id": "butter",
+      "name": "Butter",
+      "description": "A dairy product made from churning cream, used in cooking and baking.",
+      "image_prompt": "A stick of yellow butter on a butter dish, photorealistic",
+      "image_url": null,
+      "properties": ["dairy", "fat", "yellow", "creamy"]
+    },
+    {
+      "id": "chicken",
+      "name": "Chicken",
+      "description": "A versatile meat used in countless dishes around the world.",
+      "image_prompt": "Raw chicken breast on a cutting board, photorealistic",
+      "image_url": null,
+      "properties": ["meat", "protein", "white", "savory"]
+    },
+    {
+      "id": "rice",
+      "name": "Rice",
+      "description": "A starchy grain used as a staple food in many cuisines.",
+      "image_prompt": "A small pile of white rice grains, photorealistic",
+      "image_url": null,
+      "properties": ["grain", "starchy", "white", "dry"]
+    },
+    {
+      "id": "onion",
+      "name": "Onion",
+      "description": "A pungent vegetable used to add flavor to many dishes.",
+      "image_prompt": "A whole yellow onion with papery skin, photorealistic",
+      "image_url": null,
+      "properties": ["vegetable", "pungent", "aromatic", "layered"]
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "description": "A strong-flavored bulb used to season food.",
+      "image_prompt": "A bulb of garlic with a few cloves, photorealistic",
+      "image_url": null,
+      "properties": ["vegetable", "pungent", "aromatic", "white"]
+    }
+  ],
+  "discovered_ingredients": []
+}
